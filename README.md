@@ -1,4 +1,4 @@
-# [YOLO-object detection](https://pjreddie.com)
+# [YOLO-object detection](https://pjreddie.com/darknet/yolo/)
 
 YOLO(You only look once) is state of art object detection algorithm.
 
