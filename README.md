@@ -1,4 +1,4 @@
-# YOLO-object detection
+# [YOLO-object detection](https://pjreddie.com)
 
 YOLO(You only look once) is state of art object detection algorithm.
 
@@ -11,11 +11,18 @@ IT is a new approach to object detection.Prior work on object detection repurpos
 * **Numpy**
 * **argparse**
 * **imutils**
+
 # INTRUCTONS:
-1.
+1.Command to run the detection program > $ python yolo.py --image **directoryname**/**image name** --yolo **coco directory**
+
+2.Save coco.names,yolov3.cfg and [weights](https://pjreddie.com/darknet/yolo/) in same directory.
+
+3.Sava the all test images in single directory and Replace the Respective blanks in the command.
 
 
-check the following papers for a deeper understanding:
+
+**check the following papers for a deeper understanding**:
+
 [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)
 
 [ You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
