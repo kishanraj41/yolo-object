@@ -12,7 +12,7 @@ IT is a new approach to object detection.Prior work on object detection repurpos
 * **argparse**
 * **imutils**
 
-# INTRUCTONS:
+# INSTRUCTONS:
 1.Command to run the detection program > $ python yolo.py --image **directoryname**/**image name** --yolo **coco directory**
 
 2.Save coco.names,yolov3.cfg and [weights](https://pjreddie.com/darknet/yolo/) in same directory.
